@@ -1,0 +1,19 @@
+.info-item{
+    display: inline-block;
+    border: 2px solid black;
+    padding: 20px;
+    border-radius: 15px;
+    
+}
+.info-item:hover{
+    background: black;
+    padding: 30px;
+    color: white;
+    border: 1px solid white;
+    transition-duration: 1s;
+}
+.info-list{
+   padding: 20px 0px 20px 20px;
+   margin: 0px;
+   list-style: none;
+}
